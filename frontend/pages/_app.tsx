@@ -1,7 +1,7 @@
 import React from "react";
 import App from "next/app";
-import Layout from "@/components/Layout";
-import withData from "@/lib/apollo";
+import Layout from "../components/Layout";
+import withData from "../lib/apollo";
 
 class MyApp extends App {
     render() {

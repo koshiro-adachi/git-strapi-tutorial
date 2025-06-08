@@ -29,8 +29,8 @@ const Layout = (props: LayoutProps) => {
                         </Link>
                     </NavItem>
                     <NavItem>
-                        <Link href="/login" className="ml-auto">
-                            <span className="nav-link">サインイン</span>
+                        <Link href="/login">
+                            <span className="ml-auto nav-link">サインイン</span>
                         </Link>
                     </NavItem>
                     <NavItem>
